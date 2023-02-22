@@ -1,2 +1,2 @@
-Low Level Programming
-c programming language
+Low Level Programming c programming language
+functions and nested loops
